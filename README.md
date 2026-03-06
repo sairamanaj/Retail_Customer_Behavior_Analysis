@@ -11,34 +11,34 @@ SQL Analysis <br>
 Data Visualization (Power BI) <br>
 ↓ <br>
 Business Insights
-This project analyzes retail customer shopping behavior to identify purchasing patterns and generate actionable insights. The analysis combines Python, SQL, and Power BI to perform data cleaning, data storage, and visualization.
+This project analyzes retail customer shopping behavior to identify purchasing patterns and generate actionable insights. The analysis combines Python, SQL, and Power BI to perform data cleaning, data storage, and visualization.<br>
 
-The dataset contains customer shopping information such as demographics, purchase details, and transaction behavior. The goal of this project is to explore customer trends and support data-driven decision making for retail businesses.
+The dataset contains customer shopping information such as demographics, purchase details, and transaction behavior. The goal of this project is to explore customer trends and support data-driven decision making for retail businesses.<br>
 
--Tools & Technologies
-*Python (Pandas, NumPy) – Data cleaning and preprocessing
-*SQL (MySQL) – Data storage and querying
-*Power BI – Data visualization and dashboard creation
+-Tools & Technologies<br>
+*Python (Pandas, NumPy) – Data cleaning and preprocessing<br>
+*SQL (MySQL) – Data storage and querying<br>
+*Power BI – Data visualization and dashboard creation<br>
 
--Project Workflow
-1.Data Cleaning (Python)
-*Handled missing values
-*Standardized column formats
-*Prepared the dataset for analysis
+-Project Workflow<br>
+1.Data Cleaning (Python)<br>
+*Handled missing values<br>
+*Standardized column formats<br>
+*Prepared the dataset for analysis<br>
 
-2.Database Management (SQL)
-*Imported cleaned data into a SQL database
-*Wrote queries to analyze customer behavior and purchase trends
+2.Database Management (SQL)<br>
+*Imported cleaned data into a SQL database<br>
+*Wrote queries to analyze customer behavior and purchase trends<br>
 
-3.Data Visualization (Power BI)
-*Built interactive dashboards
-*Visualized customer demographics and purchase patterns
-*Identified key retail insights
+3.Data Visualization (Power BI)<br>
+*Built interactive dashboards<br>
+*Visualized customer demographics and purchase patterns<br>
+*Identified key retail insights<br>
 
--Key Insights
-*Analysis of customer purchase behavior
-*Identification of popular product categories
-*Understanding of spending patterns across different customer segments
+-Key Insights<br>
+*Analysis of customer purchase behavior<br>
+*Identification of popular product categories<br>
+*Understanding of spending patterns across different customer segments<br>
 
--Dataset
-Retail customer shopping behavior dataset containing transactional and demographic data used to explore customer purchasing trends.
+-Dataset<br>
+Retail customer shopping behavior dataset containing transactional and demographic data used to explore customer purchasing trends.<br>
