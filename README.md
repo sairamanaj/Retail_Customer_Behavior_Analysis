@@ -1,17 +1,16 @@
 # Retail_Customer_Behavior_Analysis
 
-Dataset (CSV)
-      ↓
-Data Cleaning (Python - Pandas)
-      ↓
-Database Storage (MySQL)
-      ↓
-SQL Analysis
-      ↓
-Data Visualization (Power BI)
-      ↓
+Dataset (CSV) <br>
+↓ <br>
+Data Cleaning (Python - Pandas) <br>
+↓ <br>
+Database Storage (MySQL) <br>
+↓ <br>
+SQL Analysis <br>
+↓ <br>
+Data Visualization (Power BI) <br>
+↓ <br>
 Business Insights
-
 This project analyzes retail customer shopping behavior to identify purchasing patterns and generate actionable insights. The analysis combines Python, SQL, and Power BI to perform data cleaning, data storage, and visualization.
 
 The dataset contains customer shopping information such as demographics, purchase details, and transaction behavior. The goal of this project is to explore customer trends and support data-driven decision making for retail businesses.
